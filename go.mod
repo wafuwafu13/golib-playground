@@ -1,4 +1,4 @@
-module main
+module github.com/wafuwafu13/golib-sample
 
 go 1.19
 
